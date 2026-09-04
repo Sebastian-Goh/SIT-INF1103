@@ -1,22 +1,13 @@
-print("Welcome here")
-print("My first post")
+username = input("Enter username: ")
+bio = input("Enter bio: ")
+age = int(input("Age: "))
+category = input("Enter category: ")
 
-username = "hello"
-bio = "test"
-followers = 1
+print ("Username: ", username)
+print ("Bio: ", bio)
+print("Age: ", age)
+print ("Category: ", category)
 
-print("Username:", username)
-print("Bio:", bio)
-print("Followers:", followers)
 
-followers += 50
-
-print("Day 1:", followers)
-
-followers += 50
-
-print("Day 2:", followers)
-
-followers += 50
-
-print("Day 3:", followers)
+#if age>50 and category=="fun":
+#    print("You're old, whats fun for you?")
