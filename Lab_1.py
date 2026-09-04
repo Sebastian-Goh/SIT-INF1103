@@ -9,5 +9,5 @@ print("Age: ", age)
 print ("Category: ", category)
 
 
-#if age>50 and category=="fun":
-#    print("You're old, whats fun for you?")
+if age>50 and category=="fun":
+    print("You're old, whats fun for you?")
