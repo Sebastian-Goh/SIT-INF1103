@@ -28,5 +28,11 @@
         "item": "Smartwatch",
         "price": 249.99,
         "stock": 20
+    },
+    {
+        "id": "67",
+        "item": "67",
+        "price": 67.0,
+        "stock": 68
     }
 ]
